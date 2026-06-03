@@ -1,7 +1,7 @@
 This repo contains the code for Practical Application Assignment 5.1
 By V Mui
 ## Project: Will the Customer Accept the Coupon?
-Link to [the notebook] 
+Link to [the notebook] https://github.com/vincentmui/Assignment5.1/blob/main/assignment-5.1-vincent.ipynb 
 ## Objective
 To perform data analysis and highlight the differences between customers who did and did not accept the coupons. To provide insights and actionable recommendations.
 For example, would a driver accept a coupon? What if the coupon was for a bar instead of a coffee house? Would weather impact the coupon acceptance rate? 
