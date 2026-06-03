@@ -23,7 +23,7 @@ Link to [the notebook] https://github.com/vincentmui/Assignment5.1/blob/main/ass
 ## Data Analysis and Key Findings
 Overview: 57% of all drivers accepted coupons ‘right away’ or ‘later before the coupon expires’, versus 43% did not accept the coupons.
 I examined two coupon groups: Coffee House coupons and Bar coupons
-- From the bar chart, "Coffee House" is the most frequent coupon type in the dataset. This is probably because drivers like the fast service and low-price nature of coffee house offerings.
+- From the bar chart https://github.com/vincentmui/Assignment5.1/blob/main/images/coupon_bar_plot.jpg, "Coffee House" is the most frequent coupon type in the dataset. This is probably because drivers like the fast service and low-price nature of coffee house offerings.
 ### Coffee House coupon acceptance
 - Coffee house coupons acceptance rate (50%) is less than the overall coupon acceptance rate (57%). But coffee house coupons acceptance rate is still higher than bar coupon acceptance rate (41%)
 - Drivers who went to coffee houses more than 3 times a month have a higher coffee house coupon acceptance rate (67%), than that of drivers who went 3 or fewer times (45%). Hypothesis: drivers who are already frequent coffee shop visitors tend to accept coffee house coupons.
